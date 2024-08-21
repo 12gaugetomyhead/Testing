@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var audio = $('#background-music')[0];
-    var isPlaying = false;
+    var isPlaying = true;
 
     // Start playing the audio when the page is ready
     audio.play();
